@@ -1,6 +1,6 @@
 const express = require("express")
 const cors = require("cors")
-const WhatsAppWeb = require("Baileys")
+const WhatsAppWeb = require("baileys")
 const fs = require("fs")
 
 const fileLogado = "c:/temp/connected.json"
